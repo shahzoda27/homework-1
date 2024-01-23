@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Shahzoda",
+      "department": "IT",
+      "gender": true,
+      "date": "27-08-2008"
+    },
+    {
+      "id": "c49f",
+      "name": "Behruz",
+      "department": "Accounting",
+      "gender": false,
+      "date": "20-06-2007"
+    },
+    {
+      "id": "e79a",
+      "name": "Avazxon",
+      "department": "Marketing",
+      "gender": false,
+      "date": "07-02-2007"
+    },
+    {
+      "id": "89fb",
+      "name": "Gulasal",
+      "department": "Marketing",
+      "gender": true,
+      "date": "29-05-2009"
+    },
+    {
+      "id": "2813",
+      "name": "Munisa",
+      "department": "Accounting",
+      "gender": true,
+      "date": "20-05-2002"
+    },
+    {
+      "id": "1fa8",
+      "name": "Shohjaxon",
+      "department": "IT",
+      "gender": false,
+      "date": "20-08-2008"
+    },
+    {
+      "id": "3c84",
+      "name": "Jasur",
+      "department": "IT",
+      "gender": false,
+      "date": "28-04-2004"
+    },
+    {
+      "id": "cd46",
+      "name": "gbdjsan",
+      "department": "Accounting",
+      "gender": false,
+      "date": "20-09-1982"
+    },
+    {
+      "id": "dfe6",
+      "name": "sbhjbhj",
+      "department": "IT",
+      "gender": true,
+      "date": "03-08-2006"
+    },
+    {
+      "id": "44d6",
+      "name": "fcghbjmkj",
+      "department": "Marketing",
+      "gender": false,
+      "date": "04-12-2008"
+    },
+    {
+      "id": "5d2f",
+      "name": "hcbjndk",
+      "department": "Marketing",
+      "gender": false,
+      "date": "09-07-2003"
+    },
+    {
+      "id": "2697",
+      "name": "mhdcbk",
+      "department": "Accounting",
+      "gender": true,
+      "date": "15-09-2004"
+    }
+  ]
+}
